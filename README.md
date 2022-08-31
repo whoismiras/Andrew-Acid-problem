@@ -2,7 +2,7 @@
 Yandex Internship problems
 # Contests
 ## Backend
-### [Андрей и кислота](https://github.com/Nps-rf/YandexInternship2022/blob/master/Backend/Andrew%20and%20acid.py)
+### [Андрей и кислота](https://contest.yandex.ru/contest/28412/problems/?nc=SVnRhRNI)
 | **Requirement** | **Value**  |
 | :------- | :--------- |
 | Ограничение времени | 2 секунды |
